@@ -1,4 +1,7 @@
-# https://seir.in
+# 来源
+
+[https://github.com/AyagawaSeirin/homepage](https://github.com/AyagawaSeirin/homepage)
+
 我的个人主页作品
 
 如果你喜欢，可以fork到你的仓库里改改自己用~
